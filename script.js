@@ -9,4 +9,4 @@ return a - b
 }
 
 //Invoke subtraction function to run the calculator
-console.log(subtration());
+console.log((a - b));
